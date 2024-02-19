@@ -2,12 +2,9 @@
 layout: post
 title: "about"
 ---
+This is an italian-mexican restaurante, inspired by iCarly. We specialize in a mix of two great food cultures that differ greatly. Bring the family to 22 Boo St., Gravitown, NM. We are open 2 hours every day: 5-7pm. You won't regret trying these unique delicious combos.
 
-- TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
-- TODO: replace the content of this file with a description of the concept of your restaurant
-  - this markdown file will become the home page of the website automatically, so include
-    information that you think belongs on the home page.
-  - remember, two colleagues will review your site!
+
   - use good markdown style
   - the website formatting is limited to markdown, but
   [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
