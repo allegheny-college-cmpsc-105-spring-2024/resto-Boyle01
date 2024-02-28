@@ -54,15 +54,7 @@ Summary of TODOs. Details are below
 
 ## How to update this website with content
 
-This website is for a restaurant that you would like to make or attend.
-Come up with a concept for your restaurant. The concept does not have to be
-realistic, but keep in mind that this website is viewable online.
 
-- TODO: fill out the `index.md` with a description of the concept of your restaurant
-  - `index.md` will become the home page of the website automatically, so include
-    information that you think belongs on the home page.
-- TODO: fill out the `menu.md` with at least one menu item and one photo
-  - `menu.md` will automatically be linked in the website header for easy access.
 - TODO: fill out the `contact.md` with fake contact information for your restaurant
   - `contact.md` will automatically be linked in the website header for easy access.
 - TODO: submit your changes to GitHub
