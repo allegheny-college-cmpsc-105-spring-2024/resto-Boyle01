@@ -5,16 +5,11 @@ title: "about"
 This is an italian-mexican restaurante, inspired by iCarly. We specialize in a mix of two great food cultures that differ greatly. Bring the family to 22 Boo St., Gravitown, NM. We are open 2 hours every day: 5-7pm. You won't regret trying these unique delicious combos.
 
 
-  - use good markdown style
-  - the website formatting is limited to markdown, but
-  [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
-- TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
-  put in this section.
-  - Use Markdown syntax for the quotes.
-  - after the review phase, you can replace this with two real quotes from your fellow
-  food critics.
-- TODO: finish up by removing _all_ unneeded material below line 6.
+## Reviews
+Carol: "The best food in Gravitown! We have Taco Tuesday every Wednesday with the children and they can't get enough."
 
+Unc: "I had my skepticism about this place, but the flavor don't lie. 10/10."
+ 
 ![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
 
 # Allegheny College, CMPSC 105.00 Data Exploration
