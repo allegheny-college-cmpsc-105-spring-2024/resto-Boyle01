@@ -10,4 +10,4 @@ nav: true
 3 hard corn taco shells filled with home-made sphaghetti and meatballs, including our famous sauce.
 - price: $17
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![image local](./assets/images/)
