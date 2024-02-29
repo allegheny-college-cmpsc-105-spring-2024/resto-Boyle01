@@ -6,7 +6,7 @@ This is an italian-mexican restaurante, inspired by iCarly. We specialize in a m
 
 
 ### Reviews
-Carol: "The best food in Gravitown! We have Taco Tuesday every Wednesday with the children and they can't get enough."
+> Carol: "The best food in Gravitown! We have Taco Tuesday every Wednesday with the children and they can't get enough."
 
-Unc: "I had my skepticism about this place, but the flavor don't lie. 10/10."
+> Unc: "I had my skepticism about this place, but the flavor don't lie. 10/10."
 ![image local](./assets/images/5stars.png)
