@@ -1,8 +1,7 @@
 ---
 layout: review
-# TODO: update the title inside the quotes to suit your restaurant review needs
 title: "Dan Dalandan"
-permalink: [restaurant](https://daesavellano.github.io/dan-dalandan/)
+permalink: [restaurant] (https://daesavellano.github.io/dan-dalandan/)
 nav: true
 ---
 
