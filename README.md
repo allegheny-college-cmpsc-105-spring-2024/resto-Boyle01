@@ -24,7 +24,7 @@ After completing this lab, you should be able to:
 After Monday the 19th, look for `assigned review` document in Discord.
 There you will find the websites that you need to review. Look at the sites and pretend
 that you have eaten at that restaurant. In the `_explorations/review1.md` follow the
-TODOs and write your first review. In the `_explorations/review2.md` follow the TODOs
+ and write your first review. In the `_explorations/review2.md` follow the
 and write your second review.
 
 ## What to do after the reviews are written
