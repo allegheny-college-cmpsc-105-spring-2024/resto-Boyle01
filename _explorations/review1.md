@@ -1,7 +1,7 @@
 ---
 layout: review
 title: "Dan Dalandan"
-permalink: [restaurant] (https://daesavellano.github.io/dan-dalandan/)
+permalink: link [restaurant](https://daesavellano.github.io/dan-dalandan/)
 nav: true
 ---
 
