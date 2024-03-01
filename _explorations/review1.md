@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: review
 # TODO: update the title inside the quotes to suit your restaurant review needs
 title: "Dan Dalandan"
-permalink: explorations/review1
+permalink: [restaurant](https://daesavellano.github.io/dan-dalandan/)
 nav: true
 ---
 
