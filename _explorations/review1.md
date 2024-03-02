@@ -1,17 +1,9 @@
 ---
-layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
-title: "rev 1"
-permalink: explorations/review1
+layout: review
+title: "Dan Dalandan"
+permalink: https://daesavellano.github.io/dan-dalandan/
 nav: true
 ---
 
-Rabbits like lettuce.
-
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+This restuarant checked nearly all of my boxes. To start, it was affordable, with all items on the menu only costing $7. The menu also had an expansive selection of fruity dishes to choose from. I had multiple of the menu items and they did not dissapoint. That is as long as you are a fan of fruit, as that was a large reoccuring theme throughout the menu items. Let get into the detail of the cuisine. The fruit was fresh and organic, and according to my waiter it is from a few locacl farms. I highly reccomend the Halo-Halo Supreme with Buko Lychee Cooler as the flavors meshed perfectly togethor. Anohter notable food item was Leche Flan with Strawberry, and I am not usually a fan of flan. The one negative I must knock the restuarant for is the uncomfy seating. I wanted to eat everything there, but didn't want to sit in one of their chairs long enough to do so. Overall I highly reccomend this restuarant for their food, maybe just get it to go. Here is a link to:
+[DanDalandan](https://daesavellano.github.io/dan-dalandan/)

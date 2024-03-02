@@ -1,10 +1,10 @@
----
-layout: page
-title: contact
-permalink: /contact
-nav: true
----
+# Address
+22 Boo St., Gravitown, NM
 
-- TODO: fill in fake contact information for the business
-- TODO: create heading for `Hours`
-- Optional: perhaps fake address, hours, phone, reservation instructions...
+## Hours
+5-7pm everyday
+
+## Contact Information
+phone number: 852-903-9821
+
+To leave a reservation please talk to a host(ess) on the telly
